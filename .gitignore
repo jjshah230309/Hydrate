@@ -1,0 +1,10 @@
+# Build products
+build/
+.build/
+DerivedData/
+
+.signing/
+*.p12
+*.pem
+
+.DS_Store
